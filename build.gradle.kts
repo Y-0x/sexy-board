@@ -9,5 +9,4 @@ plugins {
     alias(libs.plugins.ksp) apply true
     alias(libs.plugins.org.jetbrains.kotlin.jvm) apply false
     alias(libs.plugins.room) apply false
-    cleanup
 }

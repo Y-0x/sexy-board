@@ -16,6 +16,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "compose-android-template"
+rootProject.name = "sexyboard"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 include(":app")

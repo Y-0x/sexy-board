@@ -43,7 +43,7 @@ turbine = "1.2.1"
 work = "2.11.1"
 
 # Project Versions
-project-application-id = "com.codermp.composeandroidtemplate"
+project-application-id = "com.y0x.sexyboard"
 project-compile-sdk-version = "36"
 project-min-sdk-version = "26"
 project-target-sdk-version = "36"
